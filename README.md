@@ -3,7 +3,7 @@
 ## Table of contents
 1. [FileSystem](./basics/0.FileSystem.md)
 2. [Permission](./basics/1.Permission.md)
-3. [Text Processor](2.Text.md)
+3. [Text Processor](basics/2.Text.md)
 
 
 ## General commands
