@@ -1,23 +1,36 @@
 # Linux
+Every command here is tested on the Amazon Linux 2 AMI 
 
 ## Table of contents
-1. [FileSystem](./basics/0.FileSystem.md)
-2. [Permission](./basics/1.Permission.md)
-3. [Text Processor](basics/2.Text.md)
+<!-- Basics -->
+1. [FileSystem](./1.basics/0.FileSystem.md)
+2. [Permission](./1.basics/1.Permission.md)
+3. [Text Processor](./1.basics/2.Text.md)
+<!-- SysAdmin -->
+4. [Editor and sed](./2.sysadmin/0.Editors.md)
+5. [User Accounts](./2.sysadmin/1.UserAccounts.md)
+<!-- Networking -->
+6. [Networking Basics](4.networking/0.network-basics.md)
+7. 
 
 
 ## General commands
-1. <sudo -i> Become root user or superuser in Linux
-2. <su - "name"> Become another user
-3. <whoami> Shows current user
-4. <passwd "userid"> Change password
-5. ll is shortcut to "ls -l"
+```
+whoami = Shows current user
+ll = shortcut to "ls -l"
+:color in Vi or Vim changes color scheme ie. :color desert
+```
 
 ## Help commands
-1. <whatis "command"> (Shortest)
-2. <"command" --help> 
-3. <man "command"> (Most detailed)
+```
+1. whatis <command>
+2. <command> --help 
+3. man <command>
+```
 
 ## Packages
 sudo yum -y install telnet
 
+## Virtualization
+1. Hypervisor = Host / Virtual Server software
+2. 
