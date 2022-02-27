@@ -3,15 +3,17 @@ Every command here is tested on the Amazon Linux 2 AMI
 
 ## Table of contents
 <!-- Basics -->
-1. [FileSystem](./1.basics/0.FileSystem.md)
-2. [Permission](./1.basics/1.Permission.md)
-3. [Text Processor](./1.basics/2.Text.md)
+- [FileSystem](./1.basics/0.FileSystem.md)
+- [Permission](./1.basics/1.Permission.md)
+- [Text Processor](./1.basics/2.Text.md)
 <!-- SysAdmin -->
-4. [Editor and sed](./2.sysadmin/0.Editors.md)
-5. [User Accounts](./2.sysadmin/1.UserAccounts.md)
+- [Editor and sed](./2.sysadmin/0.Editors.md)
+- [User Accounts](./2.sysadmin/1.UserAccounts.md)
+<!-- Shell Scripting -->
+- [Advanced Scripts](3.shell-scripting/1.if-statements.md)
 <!-- Networking -->
-6. [Networking Basics](4.networking/0.network-basics.md)
-7. 
+- [Networking Basics](4.networking/0.network-basics.md)
+- 
 
 
 ## General commands
