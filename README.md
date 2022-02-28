@@ -15,12 +15,18 @@ Every command here is tested on the Amazon Linux 2 AMI
 - [Networking Basics](4.networking/0.network-basics.md)
 - [NIC](4.networking/1.NIC.md)
 - [Network Utilities](4.networking/2.NetworkUtilities.md)
+- [Network Protocols](4.networking/3.FileTransferProtocols.md)
+<!-- Disk Management -->
+- [System Levels](5.disk-management/0.SystemLevel.md)
+<!-- TroubleShooting -->
+- [Troubleshooting](6.troubleshooting/0.basics.md)
 
 ## General commands
 ```
 whoami = Shows current user
 ll = shortcut to "ls -l"
 :color in Vi or Vim changes color scheme ie. :color desert
+ rpm -qa | grep <package> = check if a package exist in the AMI
 ```
 
 ## Help commands
