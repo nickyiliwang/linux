@@ -13,8 +13,8 @@ Every command here is tested on the Amazon Linux 2 AMI
 - [Advanced Scripts](3.shell-scripting/1.if-statements.md)
 <!-- Networking -->
 - [Networking Basics](4.networking/0.network-basics.md)
-- 
-
+- [NIC](4.networking/1.NIC.md)
+- [Network Utilities](4.networking/2.NetworkUtilities.md)
 
 ## General commands
 ```
