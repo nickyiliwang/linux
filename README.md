@@ -7,9 +7,11 @@ Every command here is tested on the Amazon Linux 2 AMI
 - [Permission](1.basics/1.Permission.md)
 - [Text Processor](1.basics/2.Text.md)
 2. SysAdmin  
-- [SysAdmin Commands](2.sysadmin/0.SysAdminCMD.md)
-- [User Accounts](2.sysadmin/1.UserAccounts.md)
-- [Account Authentication](2.sysadmin/2.AccountAuthentication.md)
+- [System Utilities](2.sysadmin/0.SystemUtilities.md)
+- [System Utilities](2.sysadmin/1.SysControl.md)
+- [Task Scheduling](2.sysadmin/2.TaskSchedule.md)
+- [User Accounts](2.sysadmin/3.UserAccounts.md)
+- [Account Authentication](2.sysadmin/4.AccountAuthentication.md)
 1. Shell Scripting
 - [Advanced Scripts](3.shell-scripting/1.if-statements.md)
 4. Networking
@@ -37,10 +39,10 @@ ll = shortcut to "ls -l"
 3. man <command>
 ```
 
-## Packages
+## Packages installed
 sudo yum -y install telnet
 sudo yum -y install finger (user tracing pkg)
-sudo yum -y install firewalld (OS level firewall)
+sudo yum -y install firewalld (OS level firewall, don't forget this exit and spend 1 hour "troubleshooting" lol )
 
 ## Virtualization
 1. Hypervisor = Host / Virtual Server software
