@@ -22,7 +22,7 @@ Every command here is tested on the Amazon Linux 2 AMI
 5. Disk Management
 - [System Levels](5.disk-management/0.SystemLevel.md)
 6. TroubleShooting
-- [Troubleshooting](6.troubleshooting/0.basics.md)
+- [Unreachable EC2 Web Server](6.troubleshooting/0.EC2WebServer.md)
 
 ## General commands
 ```
