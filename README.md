@@ -11,6 +11,7 @@ Every command here is tested on the Amazon Linux 2 AMI
 - [Basic Admin CMD](2.sysadmin/0.SysBasics.md)
 - [System Control](2.sysadmin/1.0.SysControl.md)
 - [System Monitoring](2.sysadmin/1.1.SysMonitoring.md)
+- [Log Monitoring](2.sysadmin/1.2.SysLogMonitoring.md)
 - [Task Scheduling](2.sysadmin/2.TaskSchedule.md)
 - [User Accounts](2.sysadmin/3.UserAccounts.md)
 - [Account Authentication](2.sysadmin/4.AccountAuthentication.md)
