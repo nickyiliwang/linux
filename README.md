@@ -16,8 +16,9 @@ Every command here is tested on the Amazon Linux 2 AMI
 - [User Accounts](2.sysadmin/3.UserAccounts.md)
 - [Account Authentication](2.sysadmin/4.AccountAuthentication.md)
 1. Shell Scripting
+- [Scripting Basics](3.shell-scripting/0.ShellBasics.md)
 - [Advanced Scripts](3.shell-scripting/1.if-statements.md)
-4. Networking
+1. Networking
 - [Networking Basics](4.networking/0.network-basics.md)
 - [NIC](4.networking/1.NIC.md)
 - [Network Utility CMD](4.networking/2.NetworkUtilities.md)
@@ -35,15 +36,11 @@ ll = shortcut to "ls -l"
 ```
 ## Help commands
 ```
-1. whatis <command>
-2. man <command> 
-3. <command> --help 
+1. whatis [command]
+2. man [command]
+3. [command] --help 
 ```
 ## Packages installed
-sudo yum -y install telnet
-sudo yum -y install finger (user tracing pkg)
-sudo yum -y install firewalld (OS level firewall, don't forget this exist and spend 1 hour "troubleshooting" lol )
-
-## Virtualization
-1. Hypervisor = Host / Virtual Server software
-2. 
+- telnet
+- finger (user tracing pkg)
+- firewalld (OS level firewall, don't forget this exist and spend 1 hour "troubleshooting" lol )
