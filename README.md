@@ -20,9 +20,10 @@ Every command here is tested on the Amazon Linux 2 AMI
 - [Advanced Scripts](3.shell-scripting/1.advanced-scripting.md)
 1. Networking
 - [Networking Basics](4.networking/0.network-basics.md)
-- [NIC](4.networking/1.NIC.md)
+- [Network Interface Card](4.networking/1.NIC.md)
 - [Network Utility CMD](4.networking/2.NetworkUtilities.md)
-- [Network Protocols](4.networking/3.FileTransferProtocols.md)
+- [File Transfer Protocols](4.networking/3.FileTransferProtocols.md)
+- [Domain Name System](4.networking/4.DNS.md)
 5. Disk Management
 - [System Levels](5.disk-management/0.SystemLevel.md)
 6. TroubleShooting
