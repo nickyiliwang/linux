@@ -17,7 +17,7 @@ Every command here is tested on the Amazon Linux 2 AMI
 - [Account Authentication](2.sysadmin/4.AccountAuthentication.md)
 1. Shell Scripting
 - [Scripting Basics](3.shell-scripting/0.ShellBasics.md)
-- [Advanced Scripts](3.shell-scripting/1.if-statements.md)
+- [Advanced Scripts](3.shell-scripting/1.advanced-scripting.md)
 1. Networking
 - [Networking Basics](4.networking/0.network-basics.md)
 - [NIC](4.networking/1.NIC.md)
