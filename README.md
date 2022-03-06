@@ -8,26 +8,26 @@ Every command here is tested on the Amazon Linux 2 AMI
 - [Permission](1.basics/1.Permission.md)
 - [Text Processor](1.basics/2.Text.md)
 - [Package management](1.basics/3.PkgManagement.md)
-1. SysAdmin  
-- [Basic Admin CMD](2.sysadmin/0.SysBasics.md)
+2. SysAdmin  
+- [System Basics](2.sysadmin/0.SysBasics.md)
 - [System Control](2.sysadmin/1.0.SysControl.md)
 - [System Monitoring](2.sysadmin/1.1.SysMonitoring.md)
 - [Log Monitoring](2.sysadmin/1.2.SysLogMonitoring.md)
 - [Task Scheduling](2.sysadmin/2.TaskSchedule.md)
 - [User Accounts](2.sysadmin/3.UserAccounts.md)
 - [Account Authentication](2.sysadmin/4.AccountAuthentication.md)
-1. Shell Scripting
+3. Shell Scripting
 - [Scripting Basics](3.shell-scripting/0.ShellBasics.md)
 - [Advanced Scripts](3.shell-scripting/1.advanced-scripting.md)
-1. Networking
+4. Networking
 - [Networking Basics](4.networking/0.NetBasics.md)
 - [Network Security](4.networking/0.1.NetSecurity.md)
 - [Network Interface Card](4.networking/1.NIC.md)
-- [Network Utility CMD](4.networking/2.NetUtilities.md)
+- [Network Utility](4.networking/2.NetUtilities.md)
 - [File Transfer Protocols](4.networking/3.FileTransferProtocols.md)
 - [Domain Name System](4.networking/4.DNS.md)
 - [Network Time Protocol](4.networking/4.NTP.md)
-1. Disk Management
+5. Disk Management
 - [System Levels](5.disk-management/0.SystemLevel.md)
 6. TroubleShooting
 - [Unreachable EC2 Web Server](6.troubleshooting/0.EC2WebServer.md)
