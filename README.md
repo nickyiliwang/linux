@@ -7,7 +7,7 @@ Every command here is tested on the Amazon Linux 2 AMI
 - [FileSystem](1.basics/0.FileSystem.md)
 - [Permission](1.basics/1.Permission.md)
 - [Text Processor](1.basics/2.Text.md)
-- [Package management](1.basics/3.pkgManagement.md)
+- [Package management](1.basics/3.PkgManagement.md)
 1. SysAdmin  
 - [Basic Admin CMD](2.sysadmin/0.SysBasics.md)
 - [System Control](2.sysadmin/1.0.SysControl.md)
@@ -25,7 +25,8 @@ Every command here is tested on the Amazon Linux 2 AMI
 - [Network Utility CMD](4.networking/2.NetworkUtilities.md)
 - [File Transfer Protocols](4.networking/3.FileTransferProtocols.md)
 - [Domain Name System](4.networking/4.DNS.md)
-5. Disk Management
+- [Network Protocols](4.networking/4.NetworkProtocols.md)
+1. Disk Management
 - [System Levels](5.disk-management/0.SystemLevel.md)
 6. TroubleShooting
 - [Unreachable EC2 Web Server](6.troubleshooting/0.EC2WebServer.md)
@@ -46,3 +47,4 @@ ll = shortcut to "ls -l"
 - telnet
 - finger (user tracing pkg)
 - firewalld (OS level firewall, don't forget this exist and spend 1 hour "troubleshooting" lol )
+- ntp (network time protocol pkg)
