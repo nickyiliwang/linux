@@ -4,10 +4,12 @@ Every command here is tested on the Amazon Linux 2 AMI
 ## Table of contents
 1. Basics
 - [Basics](1.basics/0.Basics.md)
+- [Misc(MOTD, mail)](1.basics/0.1.Misc.md)
 - [FileSystem](1.basics/0.FileSystem.md)
 - [Permission](1.basics/1.Permission.md)
 - [Text Processor](1.basics/2.Text.md)
 - [Package management](1.basics/3.PkgManagement.md)
+- [OS Performance](1.basics/4.Performance.md)
 2. SysAdmin  
 - [System Basics](2.sysadmin/0.SysBasics.md)
 - [System Control](2.sysadmin/1.0.SysControl.md)
@@ -49,3 +51,5 @@ ll = shortcut to "ls -l"
 - finger (user tracing pkg)
 - firewalld (OS level firewall, don't forget this exist and spend 1 hour "troubleshooting" lol )
 - ntp (network time protocol pkg)
+- tuned (system performance tuning)
+- bind/bind-utils (DNS)
