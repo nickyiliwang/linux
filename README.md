@@ -7,6 +7,7 @@ Every command here is tested on the Amazon Linux 2 AMI
 - [FileSystem](1.basics/0.FileSystem.md)
 - [Permission](1.basics/1.Permission.md)
 - [Text Processor](1.basics/2.Text.md)
+- [Package management](1.basics/3.pkgManagement.md)
 1. SysAdmin  
 - [Basic Admin CMD](2.sysadmin/0.SysBasics.md)
 - [System Control](2.sysadmin/1.0.SysControl.md)
