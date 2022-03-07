@@ -38,6 +38,7 @@ Every command here is tested on the Amazon Linux 2 AMI
 - [Memory](5.disk-management/3.Memory.md)
 6. TroubleShooting
 - [Unreachable EC2 Web Server](6.troubleshooting/0.EC2WebServer.md)
+- [Network Tools](6.troubleshooting/1.NetworkTools.md)
 
 ## General commands
 ```
