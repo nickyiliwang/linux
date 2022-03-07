@@ -10,7 +10,8 @@ Every command here is tested on the Amazon Linux 2 AMI
 - [Text Processor](1.basics/2.Text.md)
 - [Package management](1.basics/3.PkgManagement.md)
 - [OS Performance](1.basics/4.Performance.md)
-2. SysAdmin  
+- [System Backup](1.basics/5.SysBackup.md)
+2. SysAdmin
 - [System Basics](2.sysadmin/0.SysBasics.md)
 - [System Control](2.sysadmin/1.0.SysControl.md)
 - [System Monitoring](2.sysadmin/1.1.SysMonitoring.md)
@@ -31,6 +32,10 @@ Every command here is tested on the Amazon Linux 2 AMI
 - [Network Time Protocol](4.networking/4.NTP.md)
 5. Disk Management
 - [System Levels](5.disk-management/0.SystemLevel.md)
+- [Storage](5.disk-management/1.Storage.md)
+- [Network File System](5.disk-management/1.1.NFS.md)
+- [Logical Volume Management](5.disk-management/2.LVM.md)
+- [Memory](5.disk-management/3.Memory.md)
 6. TroubleShooting
 - [Unreachable EC2 Web Server](6.troubleshooting/0.EC2WebServer.md)
 
@@ -53,3 +58,4 @@ ll = shortcut to "ls -l"
 - ntp (network time protocol pkg)
 - tuned (system performance tuning)
 - bind/bind-utils (DNS)
+
